@@ -1,6 +1,5 @@
-📌 Sentiment Predictor
+## 📌 **Sentiment Predictor**
 A deep learning-based sentiment analysis model that classifies tweets as positive or negative.
-
 
 ## 📝 **Overview**  
 Sentiment Predictor is a **Natural Language Processing (NLP)** project that analyzes the sentiment of tweets. It processes raw text, converts it into numerical representations, and uses a **neural network model** to classify the sentiment as **positive or negative**.  
