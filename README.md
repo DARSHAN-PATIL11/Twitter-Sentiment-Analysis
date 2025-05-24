@@ -139,4 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or collaboration opportunities, please open an issue in the repository.
+For questions or collaboration opportunities, please open an issue in the repository
